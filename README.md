@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0066-plus-one](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
