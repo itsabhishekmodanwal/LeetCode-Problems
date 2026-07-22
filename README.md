@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 ## String
