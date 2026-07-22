@@ -24,9 +24,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
