@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0443-string-compression](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0443-string-compression/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -72,4 +75,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
