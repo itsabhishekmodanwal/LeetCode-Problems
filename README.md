@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
+| [0344-reverse-string](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0443-string-compression/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0344-reverse-string](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0443-string-compression/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
