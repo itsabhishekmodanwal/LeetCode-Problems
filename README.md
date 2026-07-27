@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/itsabhishekmodanwal/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
